@@ -44,12 +44,12 @@ input[type="range"]::-ms-track {
 input[type="range"] {
   background: linear-gradient(
     to right,
-    green 0,
-    green 33%,
-    yellow 33%,
-    yellow 66%,
-    red 66%,
-    red 100%
+    #00800099 0,
+    #00800099 33%,
+    #dc8314 33%,
+    #dc8314 66%,
+    #ff000094 66%,
+    #ff000094 100%
   );
 }
 
